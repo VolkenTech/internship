@@ -1,6 +1,7 @@
 # Volken Technologies Internship Program
 
-Please read the assignments section. And when asked refer to the rules section
+Please read the assignments section. And when asked refer to the rules section.
+Check the [FAQ](./faq)
 
 ## Assignments
 
