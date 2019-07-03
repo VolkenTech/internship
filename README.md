@@ -45,7 +45,7 @@ No need to execute or test it. Just write in any editor and send to me.
   4) Create a firebase account to host your white for free.
   5) Connect your domain name to your firebase account. 
   6) Upload your HTML file as index.html
-  7) Send link to your site in our group.
+  7) Send link to your site in our group. <br/>
   Do contact me after each step in this, and ask for help if needed.
   With this exercise you will get an idea of how internet works.
 18.Write a program with all the keywords in Java
