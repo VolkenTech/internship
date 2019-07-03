@@ -39,7 +39,7 @@ No need to execute or test it. Just write in any editor and send to me. <br/>
 15.1: Print 20 random numbers from 0 to 50. Make sure no number is repeated again. <br/>
 16. draw 100 random lines similar to task 17, but make sure that no line crosses each other. do assume there is another method that will return true or false based on if they intersect. Use that method.That method takes 4 points, means 8 numbers <br/>
 17. Let's build a website <br/>
-  17.1) Buy a domain name for less than 100 rupees. (GoDaddy, and many other providers do provide cheep domain names). We will throw this     domain away after one year, so don't spend more than 100/- <br/>
+ <p> 17.1) Buy a domain name for less than 100 rupees. (GoDaddy, and many other providers do provide cheep domain names). We will throw this     domain away after one year, so don't spend more than 100/- <br/>
   17.2) Learn basics of HTML. There are many online resources for this. <br/>
   17.3) Create a HTML page about your self. It will be published, so don't publish private info which you don't want to be public. <br/>
   17.4) Create a firebase account to host your white for free. <br/>
@@ -47,7 +47,7 @@ No need to execute or test it. Just write in any editor and send to me. <br/>
   17.6) Upload your HTML file as index.html <br/>
   17.7) Send link to your site in our group. <br/>
   Do contact me after each step in this, and ask for help if needed. <br/>
-  With this exercise you will get an idea of how internet works. <br/>
+  With this exercise you will get an idea of how internet works. <br/>  </p>
 18.Write a program with all the keywords in Java <br/>
 19.Write Java program to print your name in local language and run it in your IDE. <br/>
 20.Create Point class in Java. And write a program to create 10 Random paints in Java. <br/>
@@ -64,12 +64,12 @@ So good luck. 😁👍. <br/>
 Ask me questions if you have any.<br/>
 24. Read the complete series of this post, and confirm that you understand all the concepts explained. It has 9 sub tasks. 😁 Good luck. https://codurance.com/2018/08/09/the-functional-style-part-1/ <br/>
 25.This task is for anyone who is struck above task 18. <br/>
-  25.1) Write a program  is java to read a string and printt it in reverse. You can only see Java String API for reference. Not allowed   to search anything else. <br/>
+   <p>25.1) Write a program  is java to read a string and printt it in reverse. You can only see Java String API for reference. Not allowed   to search anything else. <br/>
   25.2) Write a program to create a file named hello.text on your desktop, and that file should have your name in it. <br/>
   25.3) Write a program to print count of all files on your desktop folder. <br/>
   25.4) Write a program to count total number of files with in a given path. (taken as input from commandline arguments) <br/>
   25.5) Write a program to create String objects using at least 4 different constructors in String class. <br/>
-  25.6) Write a method that takes a path of a folder and returns name and size of top 5 files with in that folder(recursively). <br/>
+  25.6) Write a method that takes a path of a folder and returns name and size of top 5 files with in that folder(recursively). <br/> </p>
 26.Install Flutter and send me the screenshot of simple app running on your phone. You don't need to understand anything in code. <br/>
   
 ## Rules
