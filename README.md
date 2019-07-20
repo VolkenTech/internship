@@ -50,7 +50,7 @@ No need to execute or test it. Just write in any editor and send to me.
   With this exercise you will get an idea of how internet works. 
 18. Write a program with all the keywords in Java 
 19. Write Java program to print your name in local language and run it in your IDE. 
-20. Create Point class in Java. And write a program to create 10 Random paints in Java. 
+20. Create Point class in Java. And write a program to create 10 Random points in Java. 
 21. Write a program that takes names of N people and randomly splits them into groups of M users  where 1<M<N, and ramining people are distributed between the groups. 
   - Draw a rectangle on a Window/Frame. And understand every line of code you have copy pasted. 
   - Move that rectangle on every mouse click.
